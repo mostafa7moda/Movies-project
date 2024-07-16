@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Movie_Project
+build_property.RootNamespace = Movie_Project
+build_property.ProjectDir = C:\Users\TC\Desktop\Movie_Project\Movie_Project\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\TC\Desktop\Movie_Project\Movie_Project
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Gener/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Gener/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Gener/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Gener/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Gener/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Login/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9nSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Movie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Movie/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Movie/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Movie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Movie/FilterByGener.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRmlsdGVyQnlHZW5lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Movie/FilterByYear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRmlsdGVyQnlZZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Movie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Movie/IndexAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXhBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Movie/IndexUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXhVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Movie/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Shared/_LayoutForAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRGb3JBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Shared/_LayoutForUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRGb3JVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/User/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TC/Desktop/Movie_Project/Movie_Project/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3ark9trmkh
